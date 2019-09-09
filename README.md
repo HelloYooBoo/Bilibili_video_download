@@ -3,9 +3,6 @@ Bilibili(b站)视频下载 ![enter image description here](Pic/logo.png)
 ![](https://img.shields.io/badge/Python-3.6.3-green.svg) ![](https://img.shields.io/badge/requests-2.18.4-green.svg) ![](https://img.shields.io/badge/moviepy-0.2.3.2-green.svg)
 ### Bilibili官网 - https://www.bilibili.com/
 |Author|:sunglasses:Henryhaohao:sunglasses:|
-|---|---
-|Email|:hearts:1073064953@qq.com:hearts:
-
     
 ****
 ## :dolphin:声明
